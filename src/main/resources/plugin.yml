@@ -1,0 +1,14 @@
+name: CompLM
+main: com.escaperestart.sircomputer.CompLM.CompLM
+version: 1.0.0
+
+commands:
+  setloginmessage:
+    description: Set a player's login message
+    usage: /<command> <player> <message>
+    permission: complm.setloginmessage
+
+  setlogoutmessage:
+    description: Set a player's logout message
+    usage: /<command> <player> <message>
+    permission: complm.setlogoutmessage

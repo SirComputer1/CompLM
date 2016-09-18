@@ -1,0 +1,4 @@
+messages:
+  8e7090d2-d5cc-482d-b9b9-6d378565f0e6:
+    login: "&4WARNING! &e%player%&4 has arrived!"
+    logout: "&aIt's safe! &e%player%&a is gone!"
